@@ -1,4 +1,4 @@
-# bridge_prototype
+# pattern_bridge
 
 ## Цель патерна
 ### Проблема
